@@ -28,5 +28,10 @@
     "image": "https://imgur.com/a/YZ2A1gg",
     "price": "200"
     }
-  ]
+  ], 
+  "cart": {
+    { "productId": "1", "quantity": "3" },
+    { "productId": "2", "quantity": "1" },
+    { "productId": "4", "quantity": "1" }
+  }
 }
