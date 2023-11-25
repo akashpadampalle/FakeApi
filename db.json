@@ -1,38 +1,406 @@
 {
   "products": [
-    {
-    "id": "1",
-    "title": "Product 1",
-    "description": "Product 1 description",
-    "image": "https://i.imgur.com/AYWz5Gc.jpg",
-    "price": "200",
-      "rating": "4.5"
-    },
-    {
-    "id": "2",
-    "title": "Product 2",
-    "description": "Product 2 description",
-    "image": "https://i.imgur.com/AYWz5Gc.jpg",
-    "price": "200",
-      "rating": "3.1"
-    },
-    {
-    "id": "3",
-    "title": "Product 3",
-    "description": "Product 3 description",
-    "image": "https://i.imgur.com/AYWz5Gc.jpg",
-    "price": "200",
-      "rating": "5"
-    },
-    {
-    "id": "4",
-    "title": "Product 4",
-    "description": "Product 4 description",
-    "image": "https://i.imgur.com/AYWz5Gc.jpg",
-    "price": "200",
-      "rating": "2"
-    }
-  ], 
+  {
+    "id": 1,
+    "title": "Laptop",
+    "description": "Powerful laptop with high-performance specs, ideal for gaming and professional tasks.",
+    "image": "https://i.imgur.com/lBYMko3.jpg",
+    "price": 1299.99,
+    "rating": 4.7
+  },
+  {
+    "id": 2,
+    "title": "Smartphone",
+    "description": "Feature-rich smartphone with a stunning display, advanced camera, and long battery life.",
+    "image": "https://i.imgur.com/207awC2.jpg",
+    "price": 799.99,
+    "rating": 4.5
+  },
+  {
+    "id": 3,
+    "title": "Fitness Tracker",
+    "description": "Track your health and fitness with this sleek and accurate fitness tracker.",
+    "image": "https://i.imgur.com/mqpVEea.jpg",
+    "price": 49.99,
+    "rating": 4.0
+  },
+  {
+    "id": 4,
+    "title": "Coffee Maker",
+    "description": "Enjoy barista-quality coffee at home with this easy-to-use coffee maker.",
+    "image": "https://i.imgur.com/fUdf5mr.jpg",
+    "price": 89.99,
+    "rating": 4.2
+  },
+  {
+    "id": 5,
+    "title": "Wireless Headphones",
+    "description": "Immerse yourself in music with these comfortable and high-quality wireless headphones.",
+    "image": "https://i.imgur.com/Cj5ktii.jpg",
+    "price": 129.99,
+    "rating": 4.8
+  },
+  {
+    "id": 6,
+    "title": "Smart TV",
+    "description": "Transform your living room with this smart TV, featuring a 4K display and smart home integration.",
+    "image": "https://i.imgur.com/MBYzRyk.jpg",
+    "price": 699.99,
+    "rating": 4.4
+  },
+  {
+    "id": 7,
+    "title": "Digital Camera",
+    "description": "Capture stunning moments with this professional-grade digital camera with advanced features.",
+    "image": "https://i.imgur.com/5WBzYms.jpg",
+    "price": 499.99,
+    "rating": 4.6
+  },
+  {
+    "id": 8,
+    "title": "Gaming Console",
+    "description": "Experience gaming like never before with this powerful gaming console with cutting-edge graphics.",
+    "image": "https://i.imgur.com/NHiek7v.jpg",
+    "price": 349.99,
+    "rating": 4.9
+  },
+  {
+    "id": 9,
+    "title": "Blender",
+    "description": "Create healthy and delicious smoothies with this high-speed blender for your kitchen.",
+    "image": "https://i.imgur.com/7nGmAFy.jpg",
+    "price": 79.99,
+    "rating": 4.1
+  },
+  {
+    "id": 10,
+    "title": "Wireless Router",
+    "description": "Ensure fast and reliable internet connectivity with this advanced wireless router.",
+    "image": "https://i.imgur.com/6Ufxnif.jpg",
+    "price": 129.99,
+    "rating": 4.3
+  },
+  {
+    "id": 11,
+    "title": "Robot Vacuum Cleaner",
+    "description": "Effortlessly keep your home clean with this smart robot vacuum cleaner that navigates and cleans autonomously.",
+    "image": "https://i.imgur.com/0rhUYUk.jpg",
+    "price": 249.99,
+    "rating": 4.5
+  },
+  {
+    "id": 12,
+    "title": "Wireless Earbuds",
+    "description": "Immerse yourself in crystal-clear audio with these comfortable and stylish wireless earbuds.",
+    "image": "https://i.imgur.com/tUZMJT0.jpg",
+    "price": 89.99,
+    "rating": 4.2
+  },
+  {
+    "id": 13,
+    "title": "Electric Toothbrush",
+    "description": "Achieve optimal oral hygiene with this high-tech electric toothbrush with multiple cleaning modes.",
+    "image": "https://i.imgur.com/BKW801K.jpg",
+    "price": 39.99,
+    "rating": 4.8
+  },
+  {
+    "id": 14,
+    "title": "Portable Bluetooth Speaker",
+    "description": "Enjoy music on the go with this portable Bluetooth speaker featuring crisp sound and a long-lasting battery.",
+    "image": "https://i.imgur.com/wMzLKyS.jpg",
+    "price": 59.99,
+    "rating": 4.3
+  },
+  {
+    "id": 15,
+    "title": "Digital Watch",
+    "description": "Stay connected and stylish with this digital watch that tracks your fitness and notifies you of important events.",
+    "image": "https://i.imgur.com/HupJ11X.jpg",
+    "price": 129.99,
+    "rating": 4.6
+  },
+  {
+    "id": 16,
+    "title": "Air Purifier",
+    "description": "Breathe in clean air with this efficient air purifier that removes allergens and pollutants from your home.",
+    "image": "https://i.imgur.com/EPsshVk.jpg",
+    "price": 199.99,
+    "rating": 4.7
+  },
+  {
+    "id": 17,
+    "title": "Portable Power Bank",
+    "description": "Charge your devices on the go with this compact and high-capacity portable power bank.",
+    "image": "https://i.imgur.com/Iw7sI67.jpg",
+    "price": 29.99,
+    "rating": 4.0
+  },
+  {
+    "id": 18,
+    "title": "Electric Kettle",
+    "description": "Boil water quickly and efficiently with this stylish electric kettle for your kitchen.",
+    "image": "https://i.imgur.com/mnfwBie.jpg",
+    "price": 49.99,
+    "rating": 4.4
+  },
+  {
+    "id": 19,
+    "title": "Outdoor Camping Tent",
+    "description": "Experience the great outdoors with this durable and easy-to-assemble camping tent for your adventures.",
+    "image": "https://i.imgur.com/WLLOcac.jpg",
+    "price": 149.99,
+    "rating": 4.9
+  },
+  {
+    "id": 20,
+    "title": "Desktop Monitor",
+    "description": "Enhance your productivity and entertainment with this high-resolution desktop monitor with a sleek design.",
+    "image": "https://i.imgur.com/WbNiwTG.jpg",
+    "price": 279.99,
+    "rating": 4.1
+  },
+  {
+    "id": 21,
+    "title": "Wireless Charging Pad",
+    "description": "Charge your compatible devices wirelessly with this convenient and fast wireless charging pad.",
+    "image": "https://i.imgur.com/sgRBMP3.jpg",
+    "price": 34.99,
+    "rating": 4.5
+  },
+  {
+    "id": 22,
+    "title": "Drones with Camera",
+    "description": "Capture stunning aerial footage with this advanced drone equipped with a high-resolution camera.",
+    "image": "https://i.imgur.com/C2hLUQI.jpg",
+    "price": 499.99,
+    "rating": 4.2
+  },
+  {
+    "id": 23,
+    "title": "Memory Foam Mattress",
+    "description": "Experience ultimate comfort and support with this memory foam mattress for a good night's sleep.",
+    "image": "https://i.imgur.com/UZ2JiqG.jpg",
+    "price": 799.99,
+    "rating": 4.8
+  },
+  {
+    "id": 24,
+    "title": "Electric Scooter",
+    "description": "Effortlessly navigate the city with this electric scooter that combines style and practicality.",
+    "image": "https://i.imgur.com/CrpHktp.jpg",
+    "price": 349.99,
+    "rating": 4.3
+  },
+  {
+    "id": 25,
+    "title": "Smart Thermostat",
+    "description": "Control your home's temperature and save energy with this smart thermostat with intuitive features.",
+    "image": "https://i.imgur.com/MZ1fep5.jpg",
+    "price": 129.99,
+    "rating": 4.6
+  },
+  {
+    "id": 26,
+    "title": "Home Security Camera",
+    "description": "Monitor your home with this advanced security camera that provides real-time surveillance and smart alerts.",
+    "image": "https://i.imgur.com/Io9TXHs.jpg",
+    "price": 159.99,
+    "rating": 4.7
+  },
+  {
+    "id": 27,
+    "title": "Smart Doorbell",
+    "description": "Enhance your home security with this smart doorbell that allows you to see and communicate with visitors remotely.",
+    "image": "https://i.imgur.com/uPBasMd.jpg",
+    "price": 199.99,
+    "rating": 4.4
+  },
+  {
+    "id": 28,
+    "title": "Portable SSD",
+    "description": "Transfer and store data quickly with this portable SSD that combines speed and reliability.",
+    "image": "https://i.imgur.com/o7lvLHe.jpg",
+    "price": 129.99,
+    "rating": 4.9
+  },
+  {
+    "id": 29,
+    "title": "Bluetooth Gaming Controller",
+    "description": "Enhance your gaming experience with this responsive and ergonomic Bluetooth gaming controller.",
+    "image": "https://i.imgur.com/wrIhbmF.jpg",
+    "price": 69.99,
+    "rating": 4.1
+  },
+  {
+    "id": 30,
+    "title": "Smart Refrigerator",
+    "description": "Upgrade your kitchen with this smart refrigerator that offers advanced features and ample storage.",
+    "image": "https://i.imgur.com/m8sJFKo.jpg",
+    "price": 1499.99,
+    "rating": 4.5
+  },
+  {
+    "id": 31,
+    "title": "Portable Espresso Maker",
+    "description": "Enjoy a perfect cup of espresso on the go with this compact and portable espresso maker.",
+    "image": "https://i.imgur.com/2GVm8bM.jpg",
+    "price": 79.99,
+    "rating": 4.3
+  },
+  {
+    "id": 32,
+    "title": "Smart Desk Lamp",
+    "description": "Illuminate your workspace with this smart desk lamp featuring adjustable brightness and color temperature.",
+    "image": "https://i.imgur.com/A8eO6YN.jpg",
+    "price": 49.99,
+    "rating": 4.6
+  },
+  {
+    "id": 33,
+    "title": "Compact Air Fryer",
+    "description": "Cook healthy and delicious meals with this compact air fryer that uses less oil for frying.",
+    "image": "https://i.imgur.com/X9qDfOM.jpg",
+    "price": 89.99,
+    "rating": 4.8
+  },
+  {
+    "id": 34,
+    "title": "Waterproof Bluetooth Speaker",
+    "description": "Bring your music to the pool or beach with this waterproof Bluetooth speaker with clear sound and long battery life.",
+    "image": "https://i.imgur.com/Aan2XWm.jpg",
+    "price": 39.99,
+    "rating": 4.5
+  },
+  {
+    "id": 35,
+    "title": "Smart Home Hub",
+    "description": "Control all your smart devices from one central hub with this smart home hub for seamless automation.",
+    "image": "https://i.imgur.com/819wUWU.jpg",
+    "price": 129.99,
+    "rating": 4.2
+  },
+  {
+    "id": 36,
+    "title": "Portable Ice Maker",
+    "description": "Never run out of ice with this portable ice maker that produces ice cubes quickly and efficiently.",
+    "image": "https://i.imgur.com/sYpbSNc.jpg",
+    "price": 119.99,
+    "rating": 4.7
+  },
+  {
+    "id": 37,
+    "title": "Smart Wi-Fi Thermostat",
+    "description": "Efficiently manage your home's climate with this smart Wi-Fi thermostat that learns your preferences over time.",
+    "image": "https://i.imgur.com/4oRE7jf.jpg",
+    "price": 149.99,
+    "rating": 4.4
+  },
+  {
+    "id": 38,
+    "title": "Ergonomic Office Chair",
+    "description": "Stay comfortable during long work hours with this ergonomic office chair that supports good posture.",
+    "image": "https://i.imgur.com/U4Kfc8o.jpg",
+    "price": 179.99,
+    "rating": 4.9
+  },
+  {
+    "id": 39,
+    "title": "Bluetooth Noise-Canceling Headphones",
+    "description": "Immerse yourself in music without distractions with these Bluetooth noise-canceling headphones.",
+    "image": "https://i.imgur.com/mtjEIow.jpg",
+    "price": 199.99,
+    "rating": 4.1
+  },
+  {
+    "id": 40,
+    "title": "Electric Wine Opener",
+    "description": "Open wine bottles effortlessly with this electric wine opener, perfect for wine enthusiasts.",
+    "image": "https://i.imgur.com/jAKenab.jpg",
+    "price": 34.99,
+    "rating": 4.7
+  },
+  {
+    "id": 41,
+    "title": "Smart Wi-Fi Camera Doorbell",
+    "description": "Enhance your home security with this smart Wi-Fi camera doorbell that allows two-way communication and real-time monitoring.",
+    "image": "https://i.imgur.com/N8DlmO1.jpg",
+    "price": 169.99,
+    "rating": 4.3
+  },
+  {
+    "id": 42,
+    "title": "Cordless Handheld Vacuum",
+    "description": "Keep your home clean and tidy with this powerful and convenient cordless handheld vacuum.",
+    "image": "https://i.imgur.com/qHJEQ1K.jpg",
+    "price": 79.99,
+    "rating": 4.5
+  },
+  {
+    "id": 43,
+    "title": "Smart Mirror",
+    "description": "Transform your morning routine with this smart mirror that displays the weather, news, and your schedule.",
+    "image": "https://i.imgur.com/lGDilya.jpg",
+    "price": 299.99,
+    "rating": 4.0
+  },
+  {
+    "id": 44,
+    "title": "Fitness Smartwatch",
+    "description": "Monitor your fitness goals and receive notifications on the go with this feature-packed fitness smartwatch.",
+    "image": "https://i.imgur.com/JVuXJpJ.jpg",
+    "price": 129.99,
+    "rating": 4.6
+  },
+  {
+    "id": 45,
+    "title": "Indoor Herb Garden Kit",
+    "description": "Grow fresh herbs year-round with this indoor herb garden kit that makes gardening easy and enjoyable.",
+    "image": "https://i.imgur.com/fGaw3V9.jpg",
+    "price": 49.99,
+    "rating": 4.2
+  },
+  {
+    "id": 46,
+    "title": "Portable Bluetooth Projector",
+    "description": "Turn any space into a home theater with this portable Bluetooth projector for a cinematic experience.",
+    "image": "https://i.imgur.com/eTshKpe.jpg",
+    "price": 249.99,
+    "rating": 4.8
+  },
+  {
+    "id": 47,
+    "title": "Digital Drawing Tablet",
+    "description": "Unleash your creativity with this digital drawing tablet that provides a realistic drawing experience.",
+    "image": "https://i.imgur.com/z4lbRna.jpg",
+    "price": 179.99,
+    "rating": 4.4
+  },
+  {
+    "id": 48,
+    "title": "Smart Coffee Maker",
+    "description": "Brew your coffee with precision using this smart coffee maker with customizable brewing options.",
+    "image": "https://i.imgur.com/3kHzGEk.jpg",
+    "price": 109.99,
+    "rating": 4.9
+  },
+  {
+    "id": 49,
+    "title": "Wireless Charging Desk Lamp",
+    "description": "Illuminate your workspace and charge your devices simultaneously with this wireless charging desk lamp.",
+    "image": "https://i.imgur.com/zlZU9pZ.jpg",
+    "price": 69.99,
+    "rating": 4.1
+  },
+  {
+    "id": 50,
+    "title": "Digital Air Fryer Oven",
+    "description": "Cook a variety of meals with this versatile digital air fryer oven that combines air frying, roasting, and baking.",
+    "image": "https://i.imgur.com/wvB0jQ6.jpg",
+    "price": 129.99,
+    "rating": 4.3
+  }
+], 
   "cart": [
     { "id": "1", "quantity": "3" },
     { "id": "2", "quantity": "1" },
