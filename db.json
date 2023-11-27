@@ -159,6 +159,86 @@
     "image": "https://i.imgur.com/WbNiwTG.jpg",
     "price": 279.99,
     "rating": 4.1
+  },
+  {
+    "id": 21,
+    "title": "Wireless Charging Pad",
+    "description": "Charge your compatible devices wirelessly with this convenient and fast wireless charging pad.",
+    "image": "https://i.imgur.com/sgRBMP3.jpg",
+    "price": 34.99,
+    "rating": 4.5
+  },
+  {
+    "id": 22,
+    "title": "Drones with Camera",
+    "description": "Capture stunning aerial footage with this advanced drone equipped with a high-resolution camera.",
+    "image": "https://i.imgur.com/C2hLUQI.jpg",
+    "price": 499.99,
+    "rating": 4.2
+  },
+  {
+    "id": 23,
+    "title": "Memory Foam Mattress",
+    "description": "Experience ultimate comfort and support with this memory foam mattress for a good night's sleep.",
+    "image": "https://i.imgur.com/UZ2JiqG.jpg",
+    "price": 799.99,
+    "rating": 4.8
+  },
+  {
+    "id": 24,
+    "title": "Electric Scooter",
+    "description": "Effortlessly navigate the city with this electric scooter that combines style and practicality.",
+    "image": "https://i.imgur.com/CrpHktp.jpg",
+    "price": 349.99,
+    "rating": 4.3
+  },
+  {
+    "id": 25,
+    "title": "Smart Thermostat",
+    "description": "Control your home's temperature and save energy with this smart thermostat with intuitive features.",
+    "image": "https://i.imgur.com/MZ1fep5.jpg",
+    "price": 129.99,
+    "rating": 4.6
+  },
+  {
+    "id": 26,
+    "title": "Home Security Camera",
+    "description": "Monitor your home with this advanced security camera that provides real-time surveillance and smart alerts.",
+    "image": "https://i.imgur.com/Io9TXHs.jpg",
+    "price": 159.99,
+    "rating": 4.7
+  },
+  {
+    "id": 27,
+    "title": "Smart Doorbell",
+    "description": "Enhance your home security with this smart doorbell that allows you to see and communicate with visitors remotely.",
+    "image": "https://i.imgur.com/uPBasMd.jpg",
+    "price": 199.99,
+    "rating": 4.4
+  },
+  {
+    "id": 28,
+    "title": "Portable SSD",
+    "description": "Transfer and store data quickly with this portable SSD that combines speed and reliability.",
+    "image": "https://i.imgur.com/o7lvLHe.jpg",
+    "price": 129.99,
+    "rating": 4.9
+  },
+  {
+    "id": 29,
+    "title": "Bluetooth Gaming Controller",
+    "description": "Enhance your gaming experience with this responsive and ergonomic Bluetooth gaming controller.",
+    "image": "https://i.imgur.com/wrIhbmF.jpg",
+    "price": 69.99,
+    "rating": 4.1
+  },
+  {
+    "id": 30,
+    "title": "Smart Refrigerator",
+    "description": "Upgrade your kitchen with this smart refrigerator that offers advanced features and ample storage.",
+    "image": "https://i.imgur.com/m8sJFKo.jpg",
+    "price": 1499.99,
+    "rating": 4.5
   }
 ], 
   "cart": [
