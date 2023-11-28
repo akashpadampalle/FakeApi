@@ -239,6 +239,86 @@
     "image": "https://i.imgur.com/m8sJFKo.jpg",
     "price": 1499.99,
     "rating": 4.5
+  },
+  {
+    "id": 31,
+    "title": "Portable Espresso Maker",
+    "description": "Enjoy a perfect cup of espresso on the go with this compact and portable espresso maker.",
+    "image": "https://i.imgur.com/2GVm8bM.jpg",
+    "price": 79.99,
+    "rating": 4.3
+  },
+  {
+    "id": 32,
+    "title": "Smart Desk Lamp",
+    "description": "Illuminate your workspace with this smart desk lamp featuring adjustable brightness and color temperature.",
+    "image": "https://i.imgur.com/A8eO6YN.jpg",
+    "price": 49.99,
+    "rating": 4.6
+  },
+  {
+    "id": 33,
+    "title": "Compact Air Fryer",
+    "description": "Cook healthy and delicious meals with this compact air fryer that uses less oil for frying.",
+    "image": "https://i.imgur.com/X9qDfOM.jpg",
+    "price": 89.99,
+    "rating": 4.8
+  },
+  {
+    "id": 34,
+    "title": "Waterproof Bluetooth Speaker",
+    "description": "Bring your music to the pool or beach with this waterproof Bluetooth speaker with clear sound and long battery life.",
+    "image": "https://i.imgur.com/Aan2XWm.jpg",
+    "price": 39.99,
+    "rating": 4.5
+  },
+  {
+    "id": 35,
+    "title": "Smart Home Hub",
+    "description": "Control all your smart devices from one central hub with this smart home hub for seamless automation.",
+    "image": "https://i.imgur.com/819wUWU.jpg",
+    "price": 129.99,
+    "rating": 4.2
+  },
+  {
+    "id": 36,
+    "title": "Portable Ice Maker",
+    "description": "Never run out of ice with this portable ice maker that produces ice cubes quickly and efficiently.",
+    "image": "https://i.imgur.com/sYpbSNc.jpg",
+    "price": 119.99,
+    "rating": 4.7
+  },
+  {
+    "id": 37,
+    "title": "Smart Wi-Fi Thermostat",
+    "description": "Efficiently manage your home's climate with this smart Wi-Fi thermostat that learns your preferences over time.",
+    "image": "https://i.imgur.com/4oRE7jf.jpg",
+    "price": 149.99,
+    "rating": 4.4
+  },
+  {
+    "id": 38,
+    "title": "Ergonomic Office Chair",
+    "description": "Stay comfortable during long work hours with this ergonomic office chair that supports good posture.",
+    "image": "https://i.imgur.com/U4Kfc8o.jpg",
+    "price": 179.99,
+    "rating": 4.9
+  },
+  {
+    "id": 39,
+    "title": "Bluetooth Noise-Canceling Headphones",
+    "description": "Immerse yourself in music without distractions with these Bluetooth noise-canceling headphones.",
+    "image": "https://i.imgur.com/mtjEIow.jpg",
+    "price": 199.99,
+    "rating": 4.1
+  },
+  {
+    "id": 40,
+    "title": "Electric Wine Opener",
+    "description": "Open wine bottles effortlessly with this electric wine opener, perfect for wine enthusiasts.",
+    "image": "https://i.imgur.com/jAKenab.jpg",
+    "price": 34.99,
+    "rating": 4.7
   }
 ], 
   "cart": [
