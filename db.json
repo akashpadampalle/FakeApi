@@ -234,48 +234,16 @@
   },
   {
     "id": 30,
-    "title": "Smart Refrigerator",
-    "description": "Upgrade your kitchen with this smart refrigerator that offers advanced features and ample storage.",
-    "image": "https://i.imgur.com/m8sJFKo.jpg",
-    "price": 1499.99,
-    "rating": 4.5
-  },
-  {
-    "id": 31,
-    "title": "Portable Espresso Maker",
-    "description": "Enjoy a perfect cup of espresso on the go with this compact and portable espresso maker.",
-    "image": "https://i.imgur.com/2GVm8bM.jpg",
-    "price": 79.99,
-    "rating": 4.3
-  },
-  {
-    "id": 32,
-    "title": "Smart Desk Lamp",
-    "description": "Illuminate your workspace with this smart desk lamp featuring adjustable brightness and color temperature.",
-    "image": "https://i.imgur.com/A8eO6YN.jpg",
-    "price": 49.99,
-    "rating": 4.6
-  },
-  {
-    "id": 33,
     "title": "Compact Air Fryer",
     "description": "Cook healthy and delicious meals with this compact air fryer that uses less oil for frying.",
     "image": "https://i.imgur.com/X9qDfOM.jpg",
     "price": 89.99,
     "rating": 4.8
-  },
-  {
-    "id": 34,
-    "title": "Waterproof Bluetooth Speaker",
-    "description": "Bring your music to the pool or beach with this waterproof Bluetooth speaker with clear sound and long battery life.",
-    "image": "https://i.imgur.com/Aan2XWm.jpg",
-    "price": 39.99,
-    "rating": 4.5
   }
 ], 
   "cart": [
-    { "id": "1", "quantity": "3" },
-    { "id": "2", "quantity": "1" },
-    { "id": "4", "quantity": "1" }
+    { "id": "5", "quantity": "3" },
+    { "id": "15", "quantity": "1" },
+    { "id": "10", "quantity": "1" }
   ]
 }
